@@ -57,4 +57,10 @@ https://github.com/akashpanda13march-wq/password-strength-checker
 
 ## Disclaimer
 This project is for educational purposes. It is a basic password-strength checker and does not guarantee password security.
+## Screenshots
 
+### Password Checker Code
+![Password Checker Code](password-checker-code.png)
+
+### Password Checker Output
+![Password Checker Output](password-checker-output.png)
