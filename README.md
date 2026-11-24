@@ -64,7 +64,7 @@ This project is for educational purposes. It is a basic password-strength checke
 ![Password Checker Code 1](password-checker-code.png)
 
 ### 2. Password Checker Code – Part 2
-![Password Checker Code 2](password-checker-code-1.png)
+![Password Checker Code 2](password-checker-code1.png)
 
 ### 3. Password Checker Program Output
 ![Password Checker Output](password-checker-output.png)
